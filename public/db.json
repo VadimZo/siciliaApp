@@ -1,0 +1,136 @@
+{
+  "pizzas": [
+    {
+      "id": 0,
+      "imageUrl": "https://pizza-sicilia.ru/uploads/asset/file/1483/xl_%D0%90%D0%BB%D1%8F_%D1%80%D1%83%D1%81_40_30_%D1%81%D0%BC_%D1%86%D0%B5%D0%BB%D0%B8%D0%BA%D0%BE%D0%BC.jpg",
+      "name": "А-ля рус",
+      "description": "Ростбиф, картофельные дольки, маринованные огурцы, сыр моцарелла, лук красный, сливочный соус, соус гриль ",
+      "types": "Пицца",
+      "sizes": [26, 30, 40],
+      "weight": [340,630,1100],
+      "price": [345,595,935],
+      "carousel": ["https://pizza-sicilia.ru/uploads/asset/file/1534/xl_%D0%BF%D0%B8%D1%86%D1%86%D1%8B_%D1%81%D0%B0%D0%B9%D1%82_%D0%9C%D0%BE%D0%BD%D1%82%D0%B0%D0%B6%D0%BD%D0%B0%D1%8F_%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C_1_%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F_2.jpg","https://pizza-sicilia.ru/uploads/asset/file/1536/xl_%D0%BF%D0%B8%D1%86%D1%86%D1%8B_%D1%81%D0%B0%D0%B9%D1%82-08.jpg","https://pizza-sicilia.ru/uploads/asset/file/1538/xl_%D0%BF%D0%B8%D1%86%D1%86%D1%8B_%D1%81%D0%B0%D0%B9%D1%82-09.jpg"],
+      "badge": ["NEW"]
+    },
+    {
+      "id": 1,
+      "imageUrl": "https://pizza-sicilia.ru/uploads/asset/file/1491/xl_%D0%A0%D0%B8%D0%BC%D0%B8%D0%BD%D0%B8_%D0%BE%D1%81%D1%82%D1%80%D0%B0%D1%8F_40_30_%D1%81%D0%BC_%D1%86%D0%B5%D0%BB%D0%B8%D0%BA%D0%BE%D0%BC.jpg",
+      "name": "Римини острая ",
+      "description": "Бедро куриное барбекю, маслины, перец болгарский, сыр моцарелла, томатный соус, соус барбекю, перец халапеньо ",
+      "types": "Пицца",
+      "sizes": [22, 26, 40],
+      "weight": [310,530,1000],
+      "price": [299,447,699],
+      "carousel": ["https://pizza-sicilia.ru/uploads/asset/file/1534/xl_%D0%BF%D0%B8%D1%86%D1%86%D1%8B_%D1%81%D0%B0%D0%B9%D1%82_%D0%9C%D0%BE%D0%BD%D1%82%D0%B0%D0%B6%D0%BD%D0%B0%D1%8F_%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C_1_%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F_2.jpg","https://pizza-sicilia.ru/uploads/asset/file/1536/xl_%D0%BF%D0%B8%D1%86%D1%86%D1%8B_%D1%81%D0%B0%D0%B9%D1%82-08.jpg","https://pizza-sicilia.ru/uploads/asset/file/1538/xl_%D0%BF%D0%B8%D1%86%D1%86%D1%8B_%D1%81%D0%B0%D0%B9%D1%82-09.jpg"],
+      "badge": ["Острое", "NEW"]
+    },
+    {
+      "id": 2,
+      "imageUrl": "https://pizza-sicilia.ru/uploads/asset/file/1474/xl_4_%D1%81%D0%B5%D0%B7%D0%BE%D0%BD%D0%B0_40_%D1%81%D0%BC.jpg",
+      "name": "Четыре сезона",
+      "description": "Куриное филе, ананас, соус ананас-чили, пепперони, маслины, грибы шампиньоны, бекон, перец болгарский, сыр моцарелла, сливочный соус ",
+      "types": "Пицца",
+      "sizes": [26, 40],
+      "weight": [550,1000],
+      "price": [319,739],
+      "carousel": ["https://pizza-sicilia.ru/uploads/asset/file/1534/xl_%D0%BF%D0%B8%D1%86%D1%86%D1%8B_%D1%81%D0%B0%D0%B9%D1%82_%D0%9C%D0%BE%D0%BD%D1%82%D0%B0%D0%B6%D0%BD%D0%B0%D1%8F_%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C_1_%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F_2.jpg","https://pizza-sicilia.ru/uploads/asset/file/1536/xl_%D0%BF%D0%B8%D1%86%D1%86%D1%8B_%D1%81%D0%B0%D0%B9%D1%82-08.jpg","https://pizza-sicilia.ru/uploads/asset/file/1538/xl_%D0%BF%D0%B8%D1%86%D1%86%D1%8B_%D1%81%D0%B0%D0%B9%D1%82-09.jpg"],
+      "badge": ["NEW"]
+    },
+    {
+      "id": 3,
+      "imageUrl": "https://pizza-sicilia.ru/uploads/asset/file/1480/xl_%D1%86%D0%B5%D0%B7%D0%B0%D1%80%D1%8C_40_%D1%81%D0%BC.jpg",
+      "name": "Пицца Цезарь",
+      "description": "Куриное филе, ветчина, бекон, томаты, салат айсберг, сыр пармезан, сыр моцарелла, соус цезарь, карамелизированный лук ",
+      "types": "Пицца",
+      "sizes": [26, 30, 40],
+      "weight": [340,630,1100],
+      "price": [329,447,699],
+      "carousel": ["https://pizza-sicilia.ru/uploads/asset/file/1534/xl_%D0%BF%D0%B8%D1%86%D1%86%D1%8B_%D1%81%D0%B0%D0%B9%D1%82_%D0%9C%D0%BE%D0%BD%D1%82%D0%B0%D0%B6%D0%BD%D0%B0%D1%8F_%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C_1_%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F_2.jpg","https://pizza-sicilia.ru/uploads/asset/file/1536/xl_%D0%BF%D0%B8%D1%86%D1%86%D1%8B_%D1%81%D0%B0%D0%B9%D1%82-08.jpg","https://pizza-sicilia.ru/uploads/asset/file/1538/xl_%D0%BF%D0%B8%D1%86%D1%86%D1%8B_%D1%81%D0%B0%D0%B9%D1%82-09.jpg"],
+      "badge": ["НОВЫЙ РЕЦЕПТ"]
+    },
+    {
+      "id": 4,
+      "imageUrl": "https://pizza-sicilia.ru/uploads/asset/file/1471/xl_%D0%A1%D0%B8%D1%86%D0%B8%D0%BB%D0%B8%D1%8F_40_30_%D1%81%D0%BC_%D1%86%D0%B5%D0%BB%D0%B8%D0%BA%D0%BE%D0%BC.jpg",
+      "name": "Сицилия",
+      "description": "Куриное филе, ветчина, бекон, томаты, салат айсберг, сыр пармезан, сыр моцарелла, соус цезарь, карамелизированный лук ",
+      "types": "Пицца",
+      "sizes": [26, 30, 40],
+      "weight": [340,630,1100],
+      "price": [329,447,699],
+      "carousel": ["https://pizza-sicilia.ru/uploads/asset/file/1534/xl_%D0%BF%D0%B8%D1%86%D1%86%D1%8B_%D1%81%D0%B0%D0%B9%D1%82_%D0%9C%D0%BE%D0%BD%D1%82%D0%B0%D0%B6%D0%BD%D0%B0%D1%8F_%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C_1_%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F_2.jpg","https://pizza-sicilia.ru/uploads/asset/file/1536/xl_%D0%BF%D0%B8%D1%86%D1%86%D1%8B_%D1%81%D0%B0%D0%B9%D1%82-08.jpg","https://pizza-sicilia.ru/uploads/asset/file/1538/xl_%D0%BF%D0%B8%D1%86%D1%86%D1%8B_%D1%81%D0%B0%D0%B9%D1%82-09.jpg"],
+      "badge": ["НОВЫЙ РЕЦЕПТ"]
+    },
+    {
+      "id": 5,
+      "imageUrl": "https://pizza-sicilia.ru/uploads/asset/file/1467/xl_%D0%9C%D0%B0%D1%80%D0%B3%D0%B0%D1%80%D0%B8%D1%82%D0%B0_40_30_%D1%81%D0%BC_%D1%86%D0%B5%D0%BB%D0%B8%D0%BA%D0%BE%D0%BC.jpg",
+      "name": "Маргарита",
+      "description": "Сыр фетаки, сыр моцарелла, томаты, томатный соус, прованские травы ",
+      "types": "Пицца",
+      "sizes": [30, 40,50],
+      "weight": [340,630,1100],
+      "price": [299,447,699],
+      "carousel": ["https://pizza-sicilia.ru/uploads/asset/file/1534/xl_%D0%BF%D0%B8%D1%86%D1%86%D1%8B_%D1%81%D0%B0%D0%B9%D1%82_%D0%9C%D0%BE%D0%BD%D1%82%D0%B0%D0%B6%D0%BD%D0%B0%D1%8F_%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C_1_%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F_2.jpg","https://pizza-sicilia.ru/uploads/asset/file/1536/xl_%D0%BF%D0%B8%D1%86%D1%86%D1%8B_%D1%81%D0%B0%D0%B9%D1%82-08.jpg","https://pizza-sicilia.ru/uploads/asset/file/1538/xl_%D0%BF%D0%B8%D1%86%D1%86%D1%8B_%D1%81%D0%B0%D0%B9%D1%82-09.jpg"],
+      "badge": ["НОВЫЙ РЕЦЕПТ"]
+    },
+    {
+      "id": 6,
+      "imageUrl": "https://pizza-sicilia.ru/uploads/asset/file/1495/xl_%D0%A1%D1%83%D0%BF%D1%80%D0%B8%D0%BC_%D0%B1%D0%BE%D0%BB%D1%8C%D1%88%D0%B0%D1%8F.jpg",
+      "name": "Суприм",
+      "description": "Ветчина, грибы шампиньоны, маринованные огурцы, пепперони, томаты, сыр моцарелла, томатный соус, соус гриль, перец халапеньо, петрушка",
+      "types": "Пицца",
+      "sizes": [26, 30, 40],
+      "weight": [340,630,1100],
+      "price": [279,447,699],
+      "carousel": ["https://pizza-sicilia.ru/uploads/asset/file/1534/xl_%D0%BF%D0%B8%D1%86%D1%86%D1%8B_%D1%81%D0%B0%D0%B9%D1%82_%D0%9C%D0%BE%D0%BD%D1%82%D0%B0%D0%B6%D0%BD%D0%B0%D1%8F_%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C_1_%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F_2.jpg","https://pizza-sicilia.ru/uploads/asset/file/1536/xl_%D0%BF%D0%B8%D1%86%D1%86%D1%8B_%D1%81%D0%B0%D0%B9%D1%82-08.jpg","https://pizza-sicilia.ru/uploads/asset/file/1538/xl_%D0%BF%D0%B8%D1%86%D1%86%D1%8B_%D1%81%D0%B0%D0%B9%D1%82-09.jpg"],
+      "badge": ["Острое","НОВЫЙ РЕЦЕПТ"]
+    },
+    {
+      "id": 7,
+      "imageUrl": "https://pizza-sicilia.ru/uploads/asset/file/1458/xl_%D0%9F%D0%BE-%D0%B4%D0%B5%D1%80%D0%B5%D0%B2%D0%B5%D0%BD%D1%81%D0%BA%D0%B8_40_30_%D1%81%D0%BC_%D1%86%D0%B5%D0%BB%D0%B8%D0%BA%D0%BE%D0%BC.jpg",
+      "name": "Пицца по-деревенски",
+      "description": "Куриное филе, карбонад копченый, грибы шампиньоны, маринованные огурцы, сыр моцарелла, томаты, томатный соус, лук красный, лук зеленый, соус бургер ",
+      "types": "Пицца",
+      "sizes": [26, 30, 40],
+      "weight": [340,630,1100],
+      "price": [329,447,699],
+      "carousel": ["https://pizza-sicilia.ru/uploads/asset/file/1534/xl_%D0%BF%D0%B8%D1%86%D1%86%D1%8B_%D1%81%D0%B0%D0%B9%D1%82_%D0%9C%D0%BE%D0%BD%D1%82%D0%B0%D0%B6%D0%BD%D0%B0%D1%8F_%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C_1_%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F_2.jpg","https://pizza-sicilia.ru/uploads/asset/file/1536/xl_%D0%BF%D0%B8%D1%86%D1%86%D1%8B_%D1%81%D0%B0%D0%B9%D1%82-08.jpg","https://pizza-sicilia.ru/uploads/asset/file/1538/xl_%D0%BF%D0%B8%D1%86%D1%86%D1%8B_%D1%81%D0%B0%D0%B9%D1%82-09.jpg"],
+      "badge": ["НОВЫЙ РЕЦЕПТ"]
+    },
+    {
+      "id": 8,
+      "imageUrl": "https://pizza-sicilia.ru/uploads/asset/file/1744/xl_%D0%BD%D0%B5%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%82%D0%B0%D0%BD%D0%BE_%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F__1_.jpg",
+      "name": "Неаполитано",
+      "description": "Ветчина, томаты, сыр моцарелла, сливочный соус, соус бургер ",
+      "types": "Пицца",
+      "sizes": [26, 30, 40],
+      "weight": [340,630,1100],
+      "price": [279,447,699],
+      "carousel": ["https://pizza-sicilia.ru/uploads/asset/file/1534/xl_%D0%BF%D0%B8%D1%86%D1%86%D1%8B_%D1%81%D0%B0%D0%B9%D1%82_%D0%9C%D0%BE%D0%BD%D1%82%D0%B0%D0%B6%D0%BD%D0%B0%D1%8F_%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C_1_%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F_2.jpg","https://pizza-sicilia.ru/uploads/asset/file/1536/xl_%D0%BF%D0%B8%D1%86%D1%86%D1%8B_%D1%81%D0%B0%D0%B9%D1%82-08.jpg","https://pizza-sicilia.ru/uploads/asset/file/1538/xl_%D0%BF%D0%B8%D1%86%D1%86%D1%8B_%D1%81%D0%B0%D0%B9%D1%82-09.jpg"],
+      "badge": ["НОВЫЙ РЕЦЕПТ"]
+    },
+    {
+      "id": 9,
+      "imageUrl": "https://pizza-sicilia.ru/uploads/asset/file/1450/xl_%D0%A1_%D0%BA%D1%83%D1%80%D0%BE%D1%87%D0%BA%D0%BE%D0%B9_40_30_%D1%81%D0%BC_%D1%86%D0%B5%D0%BB%D0%B0%D1%8F.jpg",
+      "name": "Пицца с курочкой",
+      "description": "Куриное филе, томаты, сыр моцарелла, сыр фетаки, петрушка, томатный соус",
+      "types": "Пицца",
+      "sizes": [26, 30, 40],
+      "weight": [340,630,1100],
+      "price": [279,447,699],
+      "carousel": ["https://pizza-sicilia.ru/uploads/asset/file/1534/xl_%D0%BF%D0%B8%D1%86%D1%86%D1%8B_%D1%81%D0%B0%D0%B9%D1%82_%D0%9C%D0%BE%D0%BD%D1%82%D0%B0%D0%B6%D0%BD%D0%B0%D1%8F_%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C_1_%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F_2.jpg","https://pizza-sicilia.ru/uploads/asset/file/1536/xl_%D0%BF%D0%B8%D1%86%D1%86%D1%8B_%D1%81%D0%B0%D0%B9%D1%82-08.jpg","https://pizza-sicilia.ru/uploads/asset/file/1538/xl_%D0%BF%D0%B8%D1%86%D1%86%D1%8B_%D1%81%D0%B0%D0%B9%D1%82-09.jpg"],
+      "badge": ["НОВЫЙ РЕЦЕПТ"]
+    },
+    {
+      "id": 10,
+      "imageUrl": "https://pizza-sicilia.ru/uploads/asset/file/1450/xl_%D0%A1_%D0%BA%D1%83%D1%80%D0%BE%D1%87%D0%BA%D0%BE%D0%B9_40_30_%D1%81%D0%BC_%D1%86%D0%B5%D0%BB%D0%B0%D1%8F.jpg",
+      "name": "Пицца с курочкой",
+      "description": "Куриное филе, томаты, сыр моцарелла, сыр фетаки, петрушка, томатный соус",
+      "types": "Постное меню",
+      "sizes": [26, 30, 40],
+      "weight": [340,630,1100],
+      "price": [279,447,699],
+      "carousel": ["https://pizza-sicilia.ru/uploads/asset/file/1534/xl_%D0%BF%D0%B8%D1%86%D1%86%D1%8B_%D1%81%D0%B0%D0%B9%D1%82_%D0%9C%D0%BE%D0%BD%D1%82%D0%B0%D0%B6%D0%BD%D0%B0%D1%8F_%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C_1_%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F_2.jpg","https://pizza-sicilia.ru/uploads/asset/file/1536/xl_%D0%BF%D0%B8%D1%86%D1%86%D1%8B_%D1%81%D0%B0%D0%B9%D1%82-08.jpg","https://pizza-sicilia.ru/uploads/asset/file/1538/xl_%D0%BF%D0%B8%D1%86%D1%86%D1%8B_%D1%81%D0%B0%D0%B9%D1%82-09.jpg"],
+      "badge": ["НОВЫЙ РЕЦЕПТ"]
+    }
+  ]
+}

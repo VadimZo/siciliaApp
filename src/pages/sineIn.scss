@@ -1,0 +1,58 @@
+.sineIn__block{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  min-height: calc(100vh - 49px);
+}
+.block__title{
+  margin-bottom: 30px;
+  font-size: 32px;
+  font-weight: 700;
+  text-align: center;
+}
+form{
+  div+div{
+    margin-top: 10px !important;
+  }
+}
+.block__input,.block__input input{
+  display: block;
+  padding: 0 14px;
+  max-width: 100%;
+  width: 350px;
+  height: 40px;
+  color: #102327;
+  font-size: 15px;
+  border-radius: 4px;
+  border: 1px solid #dfdfdf;
+  outline: none;
+}
+
+.block__button{
+  text-transform: none !important;
+  font-size: 18px !important;
+  font-weight: 400 !important;
+  margin-top: 30px !important;
+  width: 350px;
+  border: 1px solid #0096b7 !important;
+  background-color: rgba(179,224,234,.5) !important;
+  color: #0096b7 !important;
+  border-radius: 4px;
+  transition: background-color .3s ease,border-color .3s ease,transform .05s ease,-webkit-transform .05s ease;
+  &:hover{
+    background-color: #b3e0ea !important;
+  }
+}
+.block__bottom{
+  margin-top: 10px;
+  span{
+    color: #bcbcbc;
+    margin-right: 8px;
+  }
+  a{
+    font-size: 15px;
+    font-weight: 700;
+    color: #102327;
+  }
+}
